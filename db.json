@@ -11,6 +11,10 @@
     {
       "urlPath": "test/test/test",
       "container": "http://localhost:3002"
+    },
+    {
+      "urlPath": "sample",
+      "container": "http://localhost:3002"
     }
   ]     
 }
